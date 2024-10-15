@@ -1,3 +1,4 @@
+![Beige Black Boho Creative Director LinkedIn Cover Image (1)](https://github.com/user-attachments/assets/9358b811-d547-4317-87a7-774ec68d5f2f)
 
 <h2>Hey I'm and Evelyn a Front-end junior programmer</h2>
 <p> I have experience in building web projects, including business sites, e-commerce platforms, and landing pages. Proficient in HTML, CSS, and JavaScript, I have a strong interest in learning new technologies and tackling challenging problems. I am eager to apply my skills and knowledge to meaningful projects in the tech industry.</p>
